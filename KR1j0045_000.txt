@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古音駢字
-#+DATE: 2018-03-25 15:00:55.579626
+#+DATE: 2018-03-25 15:00:55.663303
 #+PROPERTY: ID KR1j0045
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0045_WYG_000-1a>¶
 欽定四庫全書　　　　　經部十¶
